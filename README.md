@@ -1,0 +1,2 @@
+# e-gadai
+project algoritma
